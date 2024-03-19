@@ -1,0 +1,14 @@
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\traitmentMatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\traitmentMatrice.AssemblyInfoInputs.cache
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\traitmentMatrice.AssemblyInfo.cs
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\traitmentMatrice.csproj.CoreCompileInputs.cache
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\bin\Debug\net6.0\traitmentMatrice.exe
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\bin\Debug\net6.0\traitmentMatrice.deps.json
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\bin\Debug\net6.0\traitmentMatrice.runtimeconfig.json
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\bin\Debug\net6.0\traitmentMatrice.dll
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\bin\Debug\net6.0\traitmentMatrice.pdb
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\traitmentMatrice.dll
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\refint\traitmentMatrice.dll
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\traitmentMatrice.pdb
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\traitmentMatrice.genruntimeconfig.cache
+C:\Users\Andra\OneDrive\Bureau\visual\traitmentMatrice\obj\Debug\net6.0\ref\traitmentMatrice.dll
